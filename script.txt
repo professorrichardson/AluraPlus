@@ -1,0 +1,4 @@
+1° parte sobre  as margens e  padding
+2° parte sobre  alinhamentos
+3° parte nova section
+4° parte reutilização de estilos
